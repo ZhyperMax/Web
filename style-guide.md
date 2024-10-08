@@ -7,7 +7,7 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+> 💡 Estos son solo los tamaños de diseño. Asegúrese de que el contenido responda y cumpla con los requisitos WCAG probando la gama completa de tamaños de pantalla, desde 320 px hasta pantallas grandes.
 
 ## Colors
 
