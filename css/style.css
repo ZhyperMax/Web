@@ -30,14 +30,7 @@ main {
     border-radius: 10px;
 }
 
-section {
-    display: flex;
-    color: var(--color-white);
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-}
+
 
 section img{
     width: 100px;
@@ -57,4 +50,35 @@ article {
 }
 p {
     font-size: 14px;
+}
+
+.Principal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
+}
+
+.Secundaria{
+    display: flex;
+    color: var(--color-white);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.Nombre{
+    font-size: 20px;
+    color: var(--color-white);
+}
+
+.Origen{
+    font-size: 14px;
+    color: var(--color-green);
+}   
+
+.Rango{
+    font-size: 11px;
+    color: var(--color-white);
 }
