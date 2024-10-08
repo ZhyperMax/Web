@@ -21,7 +21,7 @@ body {
 main {
     display: flex;
     background-color: var(--color-grey-800);
-    height: 550px;
+    height: 500px;
     width: 300px;
     flex-direction: column;
     align-items: center;
@@ -33,9 +33,10 @@ main {
 
 
 section img{
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
+    margin-top: -20px;
 }
 
 article {
@@ -44,9 +45,9 @@ article {
     align-items: center;
     justify-content: center;
     background-color: var(--color-grey-700);
-    height: 30px;
-    width: 200px;
-    border-radius: 10px;
+    height: 45px;
+    width: 240px;
+    border-radius: 5px;
 }
 p {
     font-size: 14px;
@@ -71,14 +72,17 @@ p {
 .Nombre{
     font-size: 20px;
     color: var(--color-white);
+    margin-top: 0px;
 }
 
 .Origen{
     font-size: 14px;
     color: var(--color-green);
+    margin-top: -15px;
 }   
 
 .Rango{
     font-size: 11px;
     color: var(--color-white);
+    margin-top: -5px;
 }
